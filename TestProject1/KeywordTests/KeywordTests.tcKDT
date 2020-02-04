@@ -2,5 +2,9 @@
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
 	<children>
 		<child name="Test1" key="{D9311776-3E77-482B-A24D-DDCF6AF8E082}" path="Test1.tcKDTest" />
+		<child name="Test3" key="{41123A71-A689-4803-AD41-79C551A2668D}" path="Test3.tcKDTest" />
+		<child name="Test4" key="{370ECBF9-EEB7-4974-9B0E-0B69FF3FCF03}" path="Test4.tcKDTest" />
+		<child name="Test5" key="{51673E2D-E226-4AFC-B015-D31A20365B9A}" path="Test5.tcKDTest" />
+		<child name="Test6" key="{42DDACF8-657D-4067-BA1C-AF3D05EF7D23}" path="Test6.tcKDTest" />
 	</children>
 </Root>
